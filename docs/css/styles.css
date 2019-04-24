@@ -1,0 +1,55 @@
+body{
+	font-family: Courier;
+}
+img{
+	max-width: 100%;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:visited{
+	text-decoration: none; 
+	color: black;
+}
+
+#topbar{
+	margin: auto;
+	font-size: 50px;
+	width: 99%; 
+	height: 50px;
+	border-color: aqua; 
+	border-width: 10px;
+	border-style: solid;
+}
+
+#a{
+	position: absolute; 
+	left: 10%;
+}
+
+#b{
+	position: absolute; 
+	left: 30%;
+}
+
+#c{
+	position: absolute; 
+	left: 50%;
+}
+
+#d{
+	position: absolute; 
+	left: 70%;
+}
+
+#wrapper{
+	margin: auto;
+	width: 95%;
+}
+
+#wrapperVid{
+	margin: auto;
+	width: 70%;
+}
+
